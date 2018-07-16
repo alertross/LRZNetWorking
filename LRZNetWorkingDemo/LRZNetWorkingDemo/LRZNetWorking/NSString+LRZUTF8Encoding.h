@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSString (LRZYTF8Encoding)
+@interface NSString (LRZUTF8Encoding)
 /**
  UTF8
  
