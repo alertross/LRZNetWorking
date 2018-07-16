@@ -134,10 +134,10 @@
 				A16A806520F734370029E5FF /* LRZCacheManager.m */,
 				A16A805B20F733DA0029E5FF /* LRZURLRequest.h */,
 				A16A805C20F733DA0029E5FF /* LRZURLRequest.m */,
-				A16A805E20F733ED0029E5FF /* LRZRequestManager.h */,
-				A16A805F20F733ED0029E5FF /* LRZRequestManager.m */,
 				A16A806120F734110029E5FF /* LRZRequestEngine.h */,
 				A16A806220F734110029E5FF /* LRZRequestEngine.m */,
+				A16A805E20F733ED0029E5FF /* LRZRequestManager.h */,
+				A16A805F20F733ED0029E5FF /* LRZRequestManager.m */,
 			);
 			path = LRZNetWorking;
 			sourceTree = "<group>";
