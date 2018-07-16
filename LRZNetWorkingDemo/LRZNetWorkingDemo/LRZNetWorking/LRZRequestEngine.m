@@ -11,8 +11,8 @@
 #import "NSString+LRZUTF8Encoding.h"
 @implementation LRZRequestEngine
 
-static LRZRequestEngine *shareInstance = nil;
 + (instancetype)defaultEngine {
+    static LRZRequestEngine *shareInstance;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         shareInstance = [[LRZRequestEngine alloc]init];
